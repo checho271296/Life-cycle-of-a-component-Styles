@@ -7,10 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   
-  colorEn = ''
-
-  setColor(color :string){
-    this.colorEn = color;
-  }
+  
   
 }
